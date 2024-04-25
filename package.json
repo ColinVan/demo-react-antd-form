@@ -1,0 +1,24 @@
+{
+  "name": "prvodw--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "5.3.6",
+    "@types/react": "18.2.79",
+    "@types/react-dom": "18.2.25",
+    "ahooks": "^3.7.11",
+    "antd": "5.16.1",
+    "dayjs": "^1.11.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
